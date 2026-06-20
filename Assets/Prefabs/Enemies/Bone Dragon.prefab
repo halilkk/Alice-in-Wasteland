@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8955439108938723396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2678564491574822858}
+  - component: {fileID: 2114668292216428070}
+  - component: {fileID: 5233480034170144705}
+  - component: {fileID: 3698832680156541316}
+  m_Layer: 6
+  m_Name: Bone Dragon
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2678564491574822858
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955439108938723396}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 311196776461114053}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2114668292216428070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955439108938723396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9753f893ae0bc8a47abe506b6d828991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  data: {fileID: 11400000, guid: 9571734e49a9c0e468f1bad582ec0189, type: 2}
+--- !u!50 &5233480034170144705
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955439108938723396}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!70 &3698832680156541316
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955439108938723396}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.034129232, y: -0.013651669}
+  m_Size: {x: 0.66, y: 0.83}
+  m_Direction: 0
+--- !u!1001 &5153760254647161321
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2678564491574822858}
+    m_Modifications:
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5753757358221901567, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_Name
+      value: Bone Dragon
+      objectReference: {fileID: 0}
+    - target: {fileID: 5753757358221901567, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5753757358221901567, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 861620420865506593}
+  m_SourcePrefab: {fileID: 100100000, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+--- !u!4 &311196776461114053 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4887604564136774444, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+  m_PrefabInstance: {fileID: 5153760254647161321}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &602539452130029334 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5753757358221901567, guid: d1cc53ac917acd14aa16e3a194f3c21c, type: 3}
+  m_PrefabInstance: {fileID: 5153760254647161321}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &861620420865506593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602539452130029334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e482cc0c177f9943bdce6d7de7fdca6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySpriteAnimator
+  frames:
+  - {fileID: 3360934093585233813, guid: 36aa8e1237a0fa345ab11f9ff89bf8fc, type: 3}
+  - {fileID: -4981477045459793395, guid: 36aa8e1237a0fa345ab11f9ff89bf8fc, type: 3}
+  - {fileID: -3306915302868210658, guid: 36aa8e1237a0fa345ab11f9ff89bf8fc, type: 3}
+  - {fileID: -9208530754168480920, guid: 36aa8e1237a0fa345ab11f9ff89bf8fc, type: 3}
+  fps: 8

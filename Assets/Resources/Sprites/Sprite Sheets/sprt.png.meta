@@ -1,0 +1,2500 @@
+fileFormatVersion: 2
+guid: f4cab83a245c6a94f88ec3c3cb832f65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4903976265694957792
+    second: sheet deneme yapilcak_0
+  - first:
+      213: -2140701038067544459
+    second: sheet deneme yapilcak_1
+  - first:
+      213: -4681291785346387971
+    second: sheet deneme yapilcak_2
+  - first:
+      213: 6844017663752413419
+    second: sheet deneme yapilcak_3
+  - first:
+      213: 7716766187158562192
+    second: sheet deneme yapilcak_4
+  - first:
+      213: -7596620467765056008
+    second: sheet deneme yapilcak_5
+  - first:
+      213: 2156559347636604637
+    second: sheet deneme yapilcak_6
+  - first:
+      213: -1683354664803310546
+    second: sheet deneme yapilcak_7
+  - first:
+      213: 6560322322670529819
+    second: sheet deneme yapilcak_8
+  - first:
+      213: 1441893577861323229
+    second: sheet deneme yapilcak_9
+  - first:
+      213: 992297499745135450
+    second: sheet deneme yapilcak_10
+  - first:
+      213: 8570820897874377465
+    second: sheet deneme yapilcak_11
+  - first:
+      213: -3888781674637899482
+    second: sheet deneme yapilcak_12
+  - first:
+      213: 3185745091893945773
+    second: sheet deneme yapilcak_13
+  - first:
+      213: -3243571612705968684
+    second: sheet deneme yapilcak_14
+  - first:
+      213: 6614546215846027592
+    second: sheet deneme yapilcak_15
+  - first:
+      213: -6876911290865060932
+    second: sheet deneme yapilcak_16
+  - first:
+      213: -9188659626232174476
+    second: sheet deneme yapilcak_17
+  - first:
+      213: -2609987609235095057
+    second: sheet deneme yapilcak_18
+  - first:
+      213: 8246276805068420847
+    second: sheet deneme yapilcak_19
+  - first:
+      213: 6905495230976237839
+    second: sheet deneme yapilcak_20
+  - first:
+      213: 5191494659793698476
+    second: sheet deneme yapilcak_21
+  - first:
+      213: 8507806585076749793
+    second: sheet deneme yapilcak_22
+  - first:
+      213: 1495451642476601051
+    second: sheet deneme yapilcak_23
+  - first:
+      213: 4351066445507583817
+    second: sheet deneme yapilcak_24
+  - first:
+      213: 2923352853245517570
+    second: sheet deneme yapilcak_25
+  - first:
+      213: 6481692767309761378
+    second: sheet deneme yapilcak_26
+  - first:
+      213: 4563020371455784150
+    second: sheet deneme yapilcak_27
+  - first:
+      213: -5368238784599785306
+    second: sheet deneme yapilcak_28
+  - first:
+      213: -5143841366220703548
+    second: sheet deneme yapilcak_29
+  - first:
+      213: 305148488732044470
+    second: sheet deneme yapilcak_30
+  - first:
+      213: 7553605913371665118
+    second: sheet deneme yapilcak_31
+  - first:
+      213: -2879875671637346098
+    second: sheet deneme yapilcak_32
+  - first:
+      213: -4127697426508706156
+    second: sheet deneme yapilcak_33
+  - first:
+      213: 4007997579721659322
+    second: sheet deneme yapilcak_34
+  - first:
+      213: -6444812808952360647
+    second: sheet deneme yapilcak_35
+  - first:
+      213: 4777959709863905110
+    second: sheet deneme yapilcak_36
+  - first:
+      213: 3126552065015908837
+    second: sheet deneme yapilcak_37
+  - first:
+      213: 7895567044297043218
+    second: sheet deneme yapilcak_38
+  - first:
+      213: -2225297976244859086
+    second: sheet deneme yapilcak_39
+  - first:
+      213: -7906616665202606619
+    second: sheet deneme yapilcak_40
+  - first:
+      213: 2181803204305942750
+    second: sheet deneme yapilcak_41
+  - first:
+      213: -1675692791767413604
+    second: sheet deneme yapilcak_42
+  - first:
+      213: -4242380901714993693
+    second: sheet deneme yapilcak_43
+  - first:
+      213: 1161577547307583327
+    second: sheet deneme yapilcak_44
+  - first:
+      213: 5766893006314268662
+    second: sheet deneme yapilcak_45
+  - first:
+      213: -7276271566196264439
+    second: sheet deneme yapilcak_46
+  - first:
+      213: 2972121697834590216
+    second: sheet deneme yapilcak_47
+  - first:
+      213: 5714881807213850149
+    second: sheet deneme yapilcak_48
+  - first:
+      213: 2457560997058507678
+    second: sheet deneme yapilcak_49
+  - first:
+      213: -680559438577992264
+    second: sheet deneme yapilcak_50
+  - first:
+      213: 8036970163442532208
+    second: sheet deneme yapilcak_51
+  - first:
+      213: 7820859760478276389
+    second: sheet deneme yapilcak_52
+  - first:
+      213: 6889191779253795296
+    second: sheet deneme yapilcak_53
+  - first:
+      213: -8624133416192252510
+    second: sheet deneme yapilcak_54
+  - first:
+      213: 7122126441810827810
+    second: sheet deneme yapilcak_55
+  - first:
+      213: 2373426678103757484
+    second: sheet deneme yapilcak_56
+  - first:
+      213: 7334724667137716180
+    second: sheet deneme yapilcak_57
+  - first:
+      213: -498002526566410002
+    second: sheet deneme yapilcak_58
+  - first:
+      213: -5765545742100101242
+    second: sheet deneme yapilcak_59
+  - first:
+      213: 5978370116058624040
+    second: sheet deneme yapilcak_60
+  - first:
+      213: -2548603934029215717
+    second: sheet deneme yapilcak_61
+  - first:
+      213: 2793815746806133022
+    second: sheet deneme yapilcak_62
+  - first:
+      213: 1353291126440331577
+    second: sheet deneme yapilcak_63
+  - first:
+      213: -8196120860837542404
+    second: sheet deneme yapilcak_64
+  - first:
+      213: 8435096693300434085
+    second: sheet deneme yapilcak_65
+  - first:
+      213: 4093891188188750661
+    second: sheet deneme yapilcak_66
+  - first:
+      213: 356956559238412143
+    second: sheet deneme yapilcak_67
+  - first:
+      213: -8696156149834679524
+    second: sheet deneme yapilcak_68
+  - first:
+      213: -2837069293002614551
+    second: sheet deneme yapilcak_69
+  - first:
+      213: 4688216981904015876
+    second: sheet deneme yapilcak_70
+  - first:
+      213: -5632649332556791642
+    second: sheet deneme yapilcak_71
+  - first:
+      213: 2453353104555421246
+    second: sheet deneme yapilcak_72
+  - first:
+      213: -5690758153157131085
+    second: sheet deneme yapilcak_73
+  - first:
+      213: -5849918795075645159
+    second: sheet deneme yapilcak_74
+  - first:
+      213: 7822290609629702129
+    second: sheet deneme yapilcak_75
+  - first:
+      213: 5140762873222620491
+    second: sheet deneme yapilcak_76
+  - first:
+      213: -5017771952259416961
+    second: sheet deneme yapilcak_77
+  - first:
+      213: 300398188005065956
+    second: sheet deneme yapilcak_78
+  - first:
+      213: 5858592273279386054
+    second: sheet deneme yapilcak_79
+  - first:
+      213: -2033224731275003115
+    second: sheet deneme yapilcak_80
+  - first:
+      213: -3600185547511898045
+    second: sheet deneme yapilcak_81
+  - first:
+      213: 2533560687867498584
+    second: sheet deneme yapilcak_82
+  - first:
+      213: 2213267814873974068
+    second: sheet deneme yapilcak_83
+  - first:
+      213: -3146037031549224536
+    second: sheet deneme yapilcak_84
+  - first:
+      213: 7070560755318020174
+    second: sheet deneme yapilcak_85
+  - first:
+      213: -1527933137738810030
+    second: sheet deneme yapilcak_86
+  - first:
+      213: 2720124765127617445
+    second: sheet deneme yapilcak_87
+  - first:
+      213: 4142711535389205155
+    second: sheet deneme yapilcak_88
+  - first:
+      213: -9177455674427247800
+    second: sheet deneme yapilcak_89
+  - first:
+      213: -5786379313322858759
+    second: sheet deneme yapilcak_90
+  - first:
+      213: -3640038232672210964
+    second: sheet deneme yapilcak_91
+  - first:
+      213: 8753366911712778441
+    second: sheet deneme yapilcak_92
+  - first:
+      213: -364763475400040376
+    second: sheet deneme yapilcak_93
+  - first:
+      213: -5536153467641690566
+    second: sheet deneme yapilcak_94
+  - first:
+      213: 4863534545319186494
+    second: sheet deneme yapilcak_95
+  - first:
+      213: -3358129762726141543
+    second: sheet deneme yapilcak_96
+  - first:
+      213: -811741835684053890
+    second: sheet deneme yapilcak_97
+  - first:
+      213: -1782005325375234276
+    second: sheet deneme yapilcak_98
+  - first:
+      213: -6490507720590171146
+    second: sheet deneme yapilcak_99
+  - first:
+      213: 3225358149252723870
+    second: sheet deneme yapilcak_100
+  - first:
+      213: 950544441929173733
+    second: sheet deneme yapilcak_101
+  - first:
+      213: -2156063905567308458
+    second: sheet deneme yapilcak_102
+  - first:
+      213: 4971841502575768657
+    second: sheet deneme yapilcak_103
+  - first:
+      213: -6489823520667700389
+    second: sheet deneme yapilcak_104
+  - first:
+      213: -1560888747715600816
+    second: sheet deneme yapilcak_105
+  - first:
+      213: 9114507801627857766
+    second: sheet deneme yapilcak_106
+  - first:
+      213: -2069921353625308081
+    second: sheet deneme yapilcak_107
+  - first:
+      213: -6552867858634624338
+    second: sheet deneme yapilcak_108
+  - first:
+      213: 2543564574118642011
+    second: sheet deneme yapilcak_109
+  - first:
+      213: -2619753194383569636
+    second: sheet deneme yapilcak_110
+  - first:
+      213: -2201892943700085878
+    second: sheet deneme yapilcak_111
+  - first:
+      213: 7252751792217456779
+    second: sheet deneme yapilcak_112
+  - first:
+      213: 317220505444689218
+    second: sheet deneme yapilcak_113
+  - first:
+      213: 6210706102912971030
+    second: sheet deneme yapilcak_114
+  - first:
+      213: 8710144854918865185
+    second: sheet deneme yapilcak_115
+  - first:
+      213: -725667777098237529
+    second: sheet deneme yapilcak_116
+  - first:
+      213: 7348016953500137507
+    second: sheet deneme yapilcak_117
+  - first:
+      213: -4840030509033566677
+    second: sheet deneme yapilcak_118
+  - first:
+      213: 7771887853402412275
+    second: sheet deneme yapilcak_119
+  - first:
+      213: 4420424012628411697
+    second: sheet deneme yapilcak_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f2e48919391fbb0800000000000000
+      internalID: -4903976265694957792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_5
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1542
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fde665eee1639690800000000000000
+      internalID: -7596620467765056008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1542
+        width: 494
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8decfc43aded10800000000000000
+      internalID: 2156559347636604637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_7
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1542
+        width: 494
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24e665e9d583a8e0800000000000000
+      internalID: -1683354664803310546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1304
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da7d6f462fa0b50800000000000000
+      internalID: 6560322322670529819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1304
+        width: 236
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd95750d192a20410800000000000000
+      internalID: 1441893577861323229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1304
+        width: 236
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b21df815955cd00800000000000000
+      internalID: 992297499745135450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1304
+        width: 224
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fafb4b423ca1f670800000000000000
+      internalID: 8570820897874377465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_12
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1306
+        width: 176
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629c82aaba5480ac0800000000000000
+      internalID: -3888781674637899482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_13
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1303
+        width: 174
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56843484a063c20800000000000000
+      internalID: 3185745091893945773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_14
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1303
+        width: 172
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddae1dadc48cf2d0800000000000000
+      internalID: -3243571612705968684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_15
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1303
+        width: 173
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84128e9ecb69bcb50800000000000000
+      internalID: 6614546215846027592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_16
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1302
+        width: 172
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37d1ccd9d4090a0800000000000000
+      internalID: -6876911290865060932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1275
+        width: 771
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4782578e0c25b7080800000000000000
+      internalID: -9188659626232174476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_21
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1275
+        width: 771
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae375a23e4eb0840800000000000000
+      internalID: 5191494659793698476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1025
+        width: 100
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59a39430dc11670800000000000000
+      internalID: 8507806585076749793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1026
+        width: 76
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde97987859e0c410800000000000000
+      internalID: 1495451642476601051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_26
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1082
+        width: 147
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b87bafa3993f950800000000000000
+      internalID: 6481692767309761378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_28
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1079
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0847e744f2085b0800000000000000
+      internalID: -5368238784599785306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_29
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1078
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87479d7876d98b0800000000000000
+      internalID: -5143841366220703548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_30
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1082
+        width: 80
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcee9a0fea1c3400800000000000000
+      internalID: 305148488732044470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1027
+        width: 131
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2eec7be8cc3d860800000000000000
+      internalID: 7553605913371665118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 838
+        width: 316
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec834cab550a808d0800000000000000
+      internalID: -2879875671637346098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_33
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1067
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e87a06f0977b6c0800000000000000
+      internalID: -4127697426508706156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1069
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab35fef30944f9730800000000000000
+      internalID: 4007997579721659322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_35
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1087
+        width: 296
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931d18675ec6f86a0800000000000000
+      internalID: -6444812808952360647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_36
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1102
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65701999a09be4240800000000000000
+      internalID: 4777959709863905110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 839
+        width: 220
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e98907b98eb36b20800000000000000
+      internalID: 3126552065015908837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 842
+        width: 251
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d2b9fe460b29d60800000000000000
+      internalID: 7895567044297043218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_39
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 839
+        width: 203
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f878ed7472e11e0800000000000000
+      internalID: -2225297976244859086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_40
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 838
+        width: 204
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed3a67b80e064290800000000000000
+      internalID: -7906616665202606619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_41
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 838
+        width: 428
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f6726472574e10800000000000000
+      internalID: 2181803204305942750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 806
+        width: 772
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c450ab84ebeb8e0800000000000000
+      internalID: -1675692791767413604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_47
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 806
+        width: 772
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80069acefe81f3920800000000000000
+      internalID: 2972121697834590216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 566
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ee25499b65f4f40800000000000000
+      internalID: 5714881807213850149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 547
+        width: 157
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93f683c4b20b1220800000000000000
+      internalID: 2457560997058507678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_50
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 714
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf40fdbca2e86f0800000000000000
+      internalID: -680559438577992264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_51
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 582
+        width: 236
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb76e28cd098f60800000000000000
+      internalID: 8036970163442532208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_52
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 583
+        width: 237
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b4475f386498c60800000000000000
+      internalID: 7820859760478276389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_53
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 582
+        width: 228
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9b6f73c635b9f50800000000000000
+      internalID: 6889191779253795296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_54
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 582
+        width: 228
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5e840c95ce05880800000000000000
+      internalID: -8624133416192252510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_55
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 582
+        width: 114
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1d81a340e6d260800000000000000
+      internalID: 7122126441810827810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_56
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 582
+        width: 104
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca25fc02dfa10f020800000000000000
+      internalID: 2373426678103757484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_57
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 582
+        width: 107
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfe906493d2ac560800000000000000
+      internalID: 7334724667137716180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 645
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee813c2375db619f0800000000000000
+      internalID: -498002526566410002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 582
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6878bd9d1baacffa0800000000000000
+      internalID: -5765545742100101242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 401
+        width: 192
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203c7f12ff67f250800000000000000
+      internalID: 5978370116058624040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 444
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18860f993a81acd0800000000000000
+      internalID: -2548603934029215717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_62
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 446
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11b5449e90a5c620800000000000000
+      internalID: 2793815746806133022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_63
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 398
+        width: 236
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390a250c1bd7c210800000000000000
+      internalID: 1353291126440331577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_64
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 398
+        width: 236
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50c918087814e80800000000000000
+      internalID: -8196120860837542404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_65
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 398
+        width: 233
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a49e3260cb7f0570800000000000000
+      internalID: 8435096693300434085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_66
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 397
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543a715685c60d830800000000000000
+      internalID: 4093891188188750661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_67
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 427
+        width: 147
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b6a1791a24f400800000000000000
+      internalID: 356956559238412143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_68
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 420
+        width: 179
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b76c15e0c015780800000000000000
+      internalID: -8696156149834679524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_69
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 486
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8196b6284b0a8d0800000000000000
+      internalID: -2837069293002614551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_70
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 427
+        width: 125
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402c75c7184ef0140800000000000000
+      internalID: 4688216981904015876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 211
+        width: 153
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c18aa4e1a6ed4150800000000000000
+      internalID: 5858592273279386054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 209
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b70df11e888c3e0800000000000000
+      internalID: -2033224731275003115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 206
+        width: 139
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340ee03b152990ec0800000000000000
+      internalID: -3600185547511898045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_82
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 207
+        width: 147
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509c31b504092320800000000000000
+      internalID: 2533560687867498584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_83
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 201
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354e5ae95b17be10800000000000000
+      internalID: 2213267814873974068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_84
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 103
+        width: 99
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b84cfcf70754d0800000000000000
+      internalID: -3146037031549224536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_88
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 214
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a269c1413edd7930800000000000000
+      internalID: 4142711535389205155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_90
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 228
+        width: 150
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e8bd0ca6a2bfa0800000000000000
+      internalID: -5786379313322858759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_91
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 264
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef6bbc538cfb7dc0800000000000000
+      internalID: -3640038232672210964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_92
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 103
+        width: 99
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c85c4134d43a7970800000000000000
+      internalID: 8753366911712778441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_93
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 138
+        width: 70
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8406ebd3d8910faf0800000000000000
+      internalID: -364763475400040376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_94
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 206
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a368b23c0c1ab23b0800000000000000
+      internalID: -5536153467641690566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_95
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 206
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30579e96eebe7340800000000000000
+      internalID: 4863534545319186494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_96
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 206
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991aa0fd5c68561d0800000000000000
+      internalID: -3358129762726141543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_97
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 206
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7abae91d1cb4f0800000000000000
+      internalID: -811741835684053890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_98
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 243
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9729199b0547e0800000000000000
+      internalID: -1782005325375234276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_99
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 250
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ea46cd951de5a0800000000000000
+      internalID: -6490507720590171146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_102
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 218
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6558e9b1d4f1412e0800000000000000
+      internalID: -2156063905567308458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_103
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 206
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b29031878ff440800000000000000
+      internalID: 4971841502575768657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_104
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 223
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5370ab74e38fe5a0800000000000000
+      internalID: -6489823520667700389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_105
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 202
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ed18234fb965ae0800000000000000
+      internalID: -1560888747715600816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 188
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6631e8a0e8c3d7e70800000000000000
+      internalID: 9114507801627857766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 45
+        width: 137
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44fa2cee792643e0800000000000000
+      internalID: -2069921353625308081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 46
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea23202b6698f05a0800000000000000
+      internalID: -6552867858634624338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_109
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 45
+        width: 137
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b510c97f08e8c4320800000000000000
+      internalID: 2543564574118642011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_112
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 51
+        width: 149
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80033b0453f6a460800000000000000
+      internalID: 7252751792217456779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_115
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 44
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121a2a3e896a0e870800000000000000
+      internalID: 8710144854918865185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_116
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 70
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9bc116009ede5f0800000000000000
+      internalID: -725667777098237529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet deneme yapilcak_117
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 70
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3287cecdc7669f560800000000000000
+      internalID: 7348016953500137507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bef7eee4f2fcbe648b41a4723a89a26b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sheet deneme yapilcak_0: -4903976265694957792
+      sheet deneme yapilcak_1: -2140701038067544459
+      sheet deneme yapilcak_10: 992297499745135450
+      sheet deneme yapilcak_100: 3225358149252723870
+      sheet deneme yapilcak_101: 950544441929173733
+      sheet deneme yapilcak_102: -2156063905567308458
+      sheet deneme yapilcak_103: 4971841502575768657
+      sheet deneme yapilcak_104: -6489823520667700389
+      sheet deneme yapilcak_105: -1560888747715600816
+      sheet deneme yapilcak_106: 9114507801627857766
+      sheet deneme yapilcak_107: -2069921353625308081
+      sheet deneme yapilcak_108: -6552867858634624338
+      sheet deneme yapilcak_109: 2543564574118642011
+      sheet deneme yapilcak_11: 8570820897874377465
+      sheet deneme yapilcak_110: -2619753194383569636
+      sheet deneme yapilcak_111: -2201892943700085878
+      sheet deneme yapilcak_112: 7252751792217456779
+      sheet deneme yapilcak_113: 317220505444689218
+      sheet deneme yapilcak_114: 6210706102912971030
+      sheet deneme yapilcak_115: 8710144854918865185
+      sheet deneme yapilcak_116: -725667777098237529
+      sheet deneme yapilcak_117: 7348016953500137507
+      sheet deneme yapilcak_118: -4840030509033566677
+      sheet deneme yapilcak_119: 7771887853402412275
+      sheet deneme yapilcak_12: -3888781674637899482
+      sheet deneme yapilcak_120: 4420424012628411697
+      sheet deneme yapilcak_121: 741205032
+      sheet deneme yapilcak_122: 1226126362
+      sheet deneme yapilcak_123: 1200326717
+      sheet deneme yapilcak_124: -855277700
+      sheet deneme yapilcak_125: -61319986
+      sheet deneme yapilcak_13: 3185745091893945773
+      sheet deneme yapilcak_14: -3243571612705968684
+      sheet deneme yapilcak_15: 6614546215846027592
+      sheet deneme yapilcak_16: -6876911290865060932
+      sheet deneme yapilcak_17: -9188659626232174476
+      sheet deneme yapilcak_18: -2609987609235095057
+      sheet deneme yapilcak_19: 8246276805068420847
+      sheet deneme yapilcak_2: -4681291785346387971
+      sheet deneme yapilcak_20: 6905495230976237839
+      sheet deneme yapilcak_21: 5191494659793698476
+      sheet deneme yapilcak_22: 8507806585076749793
+      sheet deneme yapilcak_23: 1495451642476601051
+      sheet deneme yapilcak_24: 4351066445507583817
+      sheet deneme yapilcak_25: 2923352853245517570
+      sheet deneme yapilcak_26: 6481692767309761378
+      sheet deneme yapilcak_27: 4563020371455784150
+      sheet deneme yapilcak_28: -5368238784599785306
+      sheet deneme yapilcak_29: -5143841366220703548
+      sheet deneme yapilcak_3: 6844017663752413419
+      sheet deneme yapilcak_30: 305148488732044470
+      sheet deneme yapilcak_31: 7553605913371665118
+      sheet deneme yapilcak_32: -2879875671637346098
+      sheet deneme yapilcak_33: -4127697426508706156
+      sheet deneme yapilcak_34: 4007997579721659322
+      sheet deneme yapilcak_35: -6444812808952360647
+      sheet deneme yapilcak_36: 4777959709863905110
+      sheet deneme yapilcak_37: 3126552065015908837
+      sheet deneme yapilcak_38: 7895567044297043218
+      sheet deneme yapilcak_39: -2225297976244859086
+      sheet deneme yapilcak_4: 7716766187158562192
+      sheet deneme yapilcak_40: -7906616665202606619
+      sheet deneme yapilcak_41: 2181803204305942750
+      sheet deneme yapilcak_42: -1675692791767413604
+      sheet deneme yapilcak_43: -4242380901714993693
+      sheet deneme yapilcak_44: 1161577547307583327
+      sheet deneme yapilcak_45: 5766893006314268662
+      sheet deneme yapilcak_46: -7276271566196264439
+      sheet deneme yapilcak_47: 2972121697834590216
+      sheet deneme yapilcak_48: 5714881807213850149
+      sheet deneme yapilcak_49: 2457560997058507678
+      sheet deneme yapilcak_5: -7596620467765056008
+      sheet deneme yapilcak_50: -680559438577992264
+      sheet deneme yapilcak_51: 8036970163442532208
+      sheet deneme yapilcak_52: 7820859760478276389
+      sheet deneme yapilcak_53: 6889191779253795296
+      sheet deneme yapilcak_54: -8624133416192252510
+      sheet deneme yapilcak_55: 7122126441810827810
+      sheet deneme yapilcak_56: 2373426678103757484
+      sheet deneme yapilcak_57: 7334724667137716180
+      sheet deneme yapilcak_58: -498002526566410002
+      sheet deneme yapilcak_59: -5765545742100101242
+      sheet deneme yapilcak_6: 2156559347636604637
+      sheet deneme yapilcak_60: 5978370116058624040
+      sheet deneme yapilcak_61: -2548603934029215717
+      sheet deneme yapilcak_62: 2793815746806133022
+      sheet deneme yapilcak_63: 1353291126440331577
+      sheet deneme yapilcak_64: -8196120860837542404
+      sheet deneme yapilcak_65: 8435096693300434085
+      sheet deneme yapilcak_66: 4093891188188750661
+      sheet deneme yapilcak_67: 356956559238412143
+      sheet deneme yapilcak_68: -8696156149834679524
+      sheet deneme yapilcak_69: -2837069293002614551
+      sheet deneme yapilcak_7: -1683354664803310546
+      sheet deneme yapilcak_70: 4688216981904015876
+      sheet deneme yapilcak_71: -5632649332556791642
+      sheet deneme yapilcak_72: 2453353104555421246
+      sheet deneme yapilcak_73: -5690758153157131085
+      sheet deneme yapilcak_74: -5849918795075645159
+      sheet deneme yapilcak_75: 7822290609629702129
+      sheet deneme yapilcak_76: 5140762873222620491
+      sheet deneme yapilcak_77: -5017771952259416961
+      sheet deneme yapilcak_78: 300398188005065956
+      sheet deneme yapilcak_79: 5858592273279386054
+      sheet deneme yapilcak_8: 6560322322670529819
+      sheet deneme yapilcak_80: -2033224731275003115
+      sheet deneme yapilcak_81: -3600185547511898045
+      sheet deneme yapilcak_82: 2533560687867498584
+      sheet deneme yapilcak_83: 2213267814873974068
+      sheet deneme yapilcak_84: -3146037031549224536
+      sheet deneme yapilcak_85: 7070560755318020174
+      sheet deneme yapilcak_86: -1527933137738810030
+      sheet deneme yapilcak_87: 2720124765127617445
+      sheet deneme yapilcak_88: 4142711535389205155
+      sheet deneme yapilcak_89: -9177455674427247800
+      sheet deneme yapilcak_9: 1441893577861323229
+      sheet deneme yapilcak_90: -5786379313322858759
+      sheet deneme yapilcak_91: -3640038232672210964
+      sheet deneme yapilcak_92: 8753366911712778441
+      sheet deneme yapilcak_93: -364763475400040376
+      sheet deneme yapilcak_94: -5536153467641690566
+      sheet deneme yapilcak_95: 4863534545319186494
+      sheet deneme yapilcak_96: -3358129762726141543
+      sheet deneme yapilcak_97: -811741835684053890
+      sheet deneme yapilcak_98: -1782005325375234276
+      sheet deneme yapilcak_99: -6490507720590171146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

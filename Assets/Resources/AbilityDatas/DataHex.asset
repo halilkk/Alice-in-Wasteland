@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e41d86987cd1caa419873831dbb79eba, type: 3}
+  m_Name: DataHex
+  m_EditorClassIdentifier: Assembly-CSharp::AbilityData
+  abilityName: Hex
+  icon: {fileID: 21300000, guid: bd8b21e6f26e2a049b3c9ca8ffdc7145, type: 3}
+  prefab: {fileID: 1267858739881617472, guid: ff00d9fba515efe4f989490943014d31, type: 3}
+  chanceMultiplier: 1

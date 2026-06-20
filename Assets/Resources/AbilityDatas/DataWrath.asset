@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e41d86987cd1caa419873831dbb79eba, type: 3}
+  m_Name: DataWrath
+  m_EditorClassIdentifier: Assembly-CSharp::AbilityData
+  abilityName: Wrath
+  icon: {fileID: -2966275062840251719, guid: 38306beb96a64f04fa2b58342fe98779, type: 3}
+  prefab: {fileID: 351124046301651244, guid: d9985b01fdbae2f4fa4f600309167dc7, type: 3}
+  chanceMultiplier: 1
